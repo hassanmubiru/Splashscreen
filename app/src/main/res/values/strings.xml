@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splashscreen</string>
+    <string name="juicedates">JuiceDates</string>
+    <string name="single_tonight_not_tomorrow">Single tonight? Not tomorrow</string>
+</resources>
